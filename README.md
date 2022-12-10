@@ -120,7 +120,7 @@ who interested in Software Developer , Cloud Technology and Data Warehouse.
 ---
 <br />
 <div align="center">
-  Thanks for watching my profile! 🙏<br/>
+  Thanks for visiting my profile! 🙏<br/>
 </div>
 
 <!-- ![Ashokkumar's github stats](https://github-readme-stats.vercel.app/api?username=fabuki-xr&show_icons=true&theme=tokyonight&border_radius=8) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabuki-xr&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&border_radius=8)
