@@ -109,7 +109,7 @@ who interested in Software Developer , Cloud Technology and Data Warehouse.
 ## My GitHub Analytics 📈
 
 <div align="center">
-  <a href="https://github.com/tranthaituananh">
+  <a href="https://github.com/FabuKi-Xr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=fabuki-xr&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=8" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabuki-xr&langs_count=8&layout=compact&theme=tokyonight&border_radius=8" />
     <img height="280em" src="https://github-readme-activity-graph.cyclic.app/graph?username=fabuki-xr&theme=tokyo-night&radius=16" />
