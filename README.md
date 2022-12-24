@@ -1,5 +1,5 @@
 # Hi, I’m Jaratrawee 👋
-
+  ![](https://komarev.com/ghpvc/?username=FabuKi-Xr&style=flat-square)
 
 A Third-year computer engineering student @King Mongkut's Institute of Technology Ladkrabang 
 who interested in Software Developer , Cloud Technology and Data Warehouse.
@@ -119,6 +119,8 @@ who interested in Software Developer , Cloud Technology and Data Warehouse.
 ## Contact 📞
 Email : Jaratwee.s@gmail.com <br />
 LinkedIn : [Jaratrawee Srijansuk](https://www.linkedin.com/in/jaratrawee-srijansuk-9492b0243/)
+
+<br />
 
 ---
 <br />
