@@ -17,7 +17,7 @@ who interested in Software Developer , Cloud Technology and Data Warehouse.
 ## Project Experience ⭐
 
 
-- **HotelFlipper API,** The Hotel extension service web application using Nest.js and docker.
+- **HotelFlipper API,** The Hotel extension service web application using Nest.js and deploying on docker.
 - **Song Recommendation System**, The system developed by python with scikit-learn and seaborn to make and comparison user-based and item-based method by validation on MAE, Top-K and AUC.
 - **Thrifty Store,** The All-in-one secondhand website shop with MERN Stack where you can buy, sell, trade and auction.
 - **“사랑해요”(sa-lang-hae-yo)**, The Discord bot was created by Python and Javascirpt to help members in the server can search and play songs from youtube. The exclusive feature is the server’s playlist which uses “linear search” to make better experience.
