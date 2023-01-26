@@ -128,9 +128,9 @@ LinkedIn : [Jaratrawee Srijansuk](https://www.linkedin.com/in/jaratrawee-srijans
   Thanks for visiting my profile! 🙏<br/>
 </div>
 
-<!-- ![Ashokkumar's github stats](https://github-readme-stats.vercel.app/api?username=fabuki-xr&show_icons=true&theme=tokyonight&border_radius=8) ![Top Langs](https://fabu-ki-xr-fabuki-xr.vercel.app/api/top-langs/?username=fabuki-xr&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&border_radius=8)
+<!-- ![Ashokkumar's github stats](https://github-readme-stats.vercel.app/api?username=fabuki-xr&show_icons=true&theme=tokyonight&border_radius=8) ![Top Langs](https://fabu-ki-xr.vercel.app/api/top-langs/?username=fabuki-xr&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&border_radius=8)
 
-[![Ashutosh's github activity graph](https://fabu-ki-xr-fabuki-xr.vercel.app/graph?username=fabuki-xr&theme=tokyo-night)](https://github.com/fabuki-xr/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://fabu-ki-xr.vercel.app/graph?username=fabuki-xr&theme=tokyo-night)](https://github.com/fabuki-xr/github-readme-activity-graph)
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabuki-xr&show_icons=true&locale=en&layout=compact" alt="fabuki-xr" />
 </p> -->
