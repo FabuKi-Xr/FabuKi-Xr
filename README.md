@@ -116,7 +116,7 @@ who interested in Software Developer , Cloud Technology and Data Warehouse.
   </a>
 </div>
 
-## Contact 📞
+## Contact 
 Email : Jaratwee.s@gmail.com <br />
 LinkedIn : [Jaratrawee Srijansuk](https://www.linkedin.com/in/jaratrawee-srijansuk-9492b0243/)
 
